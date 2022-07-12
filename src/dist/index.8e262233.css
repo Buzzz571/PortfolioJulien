@@ -530,4 +530,20 @@ svg circle[data-v-9f13e6]:nth-child(2) {
   stroke: #ed6906;
 }
 
+
+
+.contact_container[data-v-7fdc81] {
+  text-align: center;
+  grid-template-columns: 1fr;
+  display: grid;
+}
+
+.logo[data-v-7fdc81] {
+  font-size: 60px;
+}
+
+.logo p[data-v-7fdc81] {
+  font-size: 1.6rem;
+}
+
 /*# sourceMappingURL=index.8e262233.css.map */
